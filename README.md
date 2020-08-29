@@ -5,7 +5,9 @@
 
 <h6 align="center"> <img src="https://komarev.com/ghpvc/?username=caceresenzo" alt="caceresenzo" /> </h6>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=caceresenzo&show_icons=true" alt="caceresenzo" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Caceresenzo&show_icons=true&count_private=true" alt="caceresenzo" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caceresenzo&layout=compact" alt="caceresenzo" /> </p>
 
 <p align="center">
 <a href="https://linkedin.com/in/enzo-caceres" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="enzo-caceres" height="20" width="20" /></a>
