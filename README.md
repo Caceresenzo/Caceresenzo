@@ -31,7 +31,7 @@
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=caceresenzo&theme=default&hide_border=false&date_format=Y/m/j&properties=background" alt="caceresenzo" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Caceresenzo&show_icons=true&count_private=true" alt="caceresenzo" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Caceresenzo&show_icons=true&include_all_commits=true&count_private=true" alt="caceresenzo" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caceresenzo&layout=compact" alt="caceresenzo" /> </p>
 
