@@ -11,6 +11,7 @@
 | Java Library | [disposable-email-domains-java](https://github.com/Caceresenzo/disposable-email-domains-java) | A client for fetching and validating [disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains). |
 | PowerToys Extension | [Community.PowerToys.Run.Plugin.DevTools](https://github.com/Caceresenzo/Community.PowerToys.Run.Plugin.DevTools) | Very useful tool for quickly doing repetitive things. |
 | PowerToys Extension | [Community.PowerToys.Run.Plugin.OutlastTrials](https://github.com/Caceresenzo/Community.PowerToys.Run.Plugin.OutlastTrials) | Tools to help you play [The Outlast Trials](https://store.steampowered.com/app/1304930/The_Outlast_Trials/). |
+| Shell Utility | [readwrite](https://github.com/crunchdao/readwrite) | Quickly read and write file based on their extension. |
 | Shell Utility | [with-env](https://github.com/Caceresenzo/with-env) | Run a program with some `.env` files. |
 | Shell Utility | [import-shell](https://github.com/Caceresenzo/import-shell) | Quickly start a Python REPL with some imports directly from Bash. |
 | School | [42](https://github.com/Caceresenzo/42) | All of my projects from my time at [School 42 Paris](https://42.fr/). |
